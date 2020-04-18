@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb3cbebc564daf2f6c7704ab9a390206",
+    "revision": "0ff1d377da2b606429e6c36ce86ce4ea",
     "url": "/jorris/index.html"
   },
   {
-    "revision": "5c853452e45d56b5ced7",
+    "revision": "24fc6da485ef4175822c",
     "url": "/jorris/static/css/main.7e2f50cf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jorris/static/js/2.ffa1b6f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c853452e45d56b5ced7",
-    "url": "/jorris/static/js/main.deaacf8e.chunk.js"
+    "revision": "24fc6da485ef4175822c",
+    "url": "/jorris/static/js/main.43f7abfa.chunk.js"
   },
   {
     "revision": "180e2d7d52c712348b74",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d247cf9d11903d4c4020bd531c4b14c7",
     "url": "/jorris/static/media/comment.d247cf9d.svg"
+  },
+  {
+    "revision": "2cffa33ace5ef67cfc85977cf56e715e",
+    "url": "/jorris/static/media/comment2.2cffa33a.svg"
   },
   {
     "revision": "e977fb9e726c00e0765ae53cc9a0dd66",
