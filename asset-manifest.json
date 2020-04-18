@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jorris/static/css/main.7e2f50cf.chunk.css",
+    "main.css": "/jorris/static/css/main.e225586b.chunk.css",
     "main.js": "/jorris/static/js/main.43f7abfa.chunk.js",
     "main.js.map": "/jorris/static/js/main.43f7abfa.chunk.js.map",
     "runtime-main.js": "/jorris/static/js/runtime-main.a515f899.js",
@@ -8,9 +8,9 @@
     "static/js/2.ffa1b6f3.chunk.js": "/jorris/static/js/2.ffa1b6f3.chunk.js",
     "static/js/2.ffa1b6f3.chunk.js.map": "/jorris/static/js/2.ffa1b6f3.chunk.js.map",
     "index.html": "/jorris/index.html",
-    "precache-manifest.eb0398d5dd723a046220bbb085c6df4d.js": "/jorris/precache-manifest.eb0398d5dd723a046220bbb085c6df4d.js",
+    "precache-manifest.ffedd78338a5c50b35870af4138ab6ff.js": "/jorris/precache-manifest.ffedd78338a5c50b35870af4138ab6ff.js",
     "service-worker.js": "/jorris/service-worker.js",
-    "static/css/main.7e2f50cf.chunk.css.map": "/jorris/static/css/main.7e2f50cf.chunk.css.map",
+    "static/css/main.e225586b.chunk.css.map": "/jorris/static/css/main.e225586b.chunk.css.map",
     "static/js/2.ffa1b6f3.chunk.js.LICENSE.txt": "/jorris/static/js/2.ffa1b6f3.chunk.js.LICENSE.txt",
     "static/media/buttonClosed.358f75fe.svg": "/jorris/static/media/buttonClosed.358f75fe.svg",
     "static/media/buttonOpened.dbd9017e.svg": "/jorris/static/media/buttonOpened.dbd9017e.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.a515f899.js",
     "static/js/2.ffa1b6f3.chunk.js",
-    "static/css/main.7e2f50cf.chunk.css",
+    "static/css/main.e225586b.chunk.css",
     "static/js/main.43f7abfa.chunk.js"
   ]
 }
