@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/jorris/static/css/main.c5bdb072.chunk.css",
-    "main.js": "/jorris/static/js/main.4b13dd63.chunk.js",
-    "main.js.map": "/jorris/static/js/main.4b13dd63.chunk.js.map",
+    "main.css": "/jorris/static/css/main.a2b56af0.chunk.css",
+    "main.js": "/jorris/static/js/main.deaacf8e.chunk.js",
+    "main.js.map": "/jorris/static/js/main.deaacf8e.chunk.js.map",
     "runtime-main.js": "/jorris/static/js/runtime-main.a515f899.js",
     "runtime-main.js.map": "/jorris/static/js/runtime-main.a515f899.js.map",
-    "static/js/2.af63c611.chunk.js": "/jorris/static/js/2.af63c611.chunk.js",
-    "static/js/2.af63c611.chunk.js.map": "/jorris/static/js/2.af63c611.chunk.js.map",
+    "static/js/2.ffa1b6f3.chunk.js": "/jorris/static/js/2.ffa1b6f3.chunk.js",
+    "static/js/2.ffa1b6f3.chunk.js.map": "/jorris/static/js/2.ffa1b6f3.chunk.js.map",
     "index.html": "/jorris/index.html",
-    "precache-manifest.bc066cfd8e6b98b822ee52469b247cf6.js": "/jorris/precache-manifest.bc066cfd8e6b98b822ee52469b247cf6.js",
+    "precache-manifest.086d0e5b965ffd7cd52ddd15ee1368c4.js": "/jorris/precache-manifest.086d0e5b965ffd7cd52ddd15ee1368c4.js",
     "service-worker.js": "/jorris/service-worker.js",
-    "static/css/main.c5bdb072.chunk.css.map": "/jorris/static/css/main.c5bdb072.chunk.css.map",
-    "static/js/2.af63c611.chunk.js.LICENSE.txt": "/jorris/static/js/2.af63c611.chunk.js.LICENSE.txt",
+    "static/css/main.a2b56af0.chunk.css.map": "/jorris/static/css/main.a2b56af0.chunk.css.map",
+    "static/js/2.ffa1b6f3.chunk.js.LICENSE.txt": "/jorris/static/js/2.ffa1b6f3.chunk.js.LICENSE.txt",
+    "static/media/buttonClosed.358f75fe.svg": "/jorris/static/media/buttonClosed.358f75fe.svg",
+    "static/media/buttonOpened.dbd9017e.svg": "/jorris/static/media/buttonOpened.dbd9017e.svg",
     "static/media/comment.d247cf9d.svg": "/jorris/static/media/comment.d247cf9d.svg",
     "static/media/like.e977fb9e.svg": "/jorris/static/media/like.e977fb9e.svg",
     "static/media/liked.0865c832.svg": "/jorris/static/media/liked.0865c832.svg",
@@ -19,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a515f899.js",
-    "static/js/2.af63c611.chunk.js",
-    "static/css/main.c5bdb072.chunk.css",
-    "static/js/main.4b13dd63.chunk.js"
+    "static/js/2.ffa1b6f3.chunk.js",
+    "static/css/main.a2b56af0.chunk.css",
+    "static/js/main.deaacf8e.chunk.js"
   ]
 }
